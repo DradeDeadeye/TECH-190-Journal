@@ -28,6 +28,10 @@ I submitted the base game together with a short video to show what I did in the 
 */
 
 /*
-Week 2: 
+Week 2: (hours spent ~3-4)
+
+thougth of concepts on what my final game will be.
+
+In the time of writing this, I thought of the game being a top down rogue-lite.
 
 */
