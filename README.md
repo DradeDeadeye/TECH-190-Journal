@@ -28,10 +28,21 @@ I submitted the base game together with a short video to show what I did in the 
 */
 
 /*
-Week 2: (hours spent ~3-4)
+Week 2: (hours spent ~2-5)
 
 thougth of concepts on what my final game will be.
 
 In the time of writing this, I thought of the game being a top down rogue-lite.
 
+Read a couple chapters in Level Up! The Guide to Great Video Game Design
+*/
+
+/*
+Week 3: (hours spent ~)
+
+I continued to think of concepts as I started with the "paperwork" of the game.
+
+for now, I wrote down the gameplay and goal pitch, mechanics, levels, and the characters that will be in the game.
+
+Continued reading the Level Up! book.
 */
