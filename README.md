@@ -28,7 +28,7 @@ I submitted the base game together with a short video to show what I did in the 
 */
 
 /*
-Week 2: (hours spent ~2-5)
+Week 2: (hours spent: ~4-5)
 
 thougth of concepts on what my final game will be.
 
@@ -38,7 +38,7 @@ Read a couple chapters in Level Up! The Guide to Great Video Game Design
 */
 
 /*
-Week 3: (hours spent ~)
+Week 3: (hours spent: ~6)
 
 I continued to think of concepts as I started with the "paperwork" of the game.
 
