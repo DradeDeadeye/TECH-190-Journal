@@ -46,3 +46,10 @@ for now, I wrote down the gameplay and goal pitch, mechanics, levels, and the ch
 
 Continued reading the Level Up! book.
 */
+
+/*
+Week 4: (hours spent:
+
+Prepared a powerpoint to give an idea on what my game is about
+
+*/
