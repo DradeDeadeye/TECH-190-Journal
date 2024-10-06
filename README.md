@@ -48,8 +48,18 @@ Continued reading the Level Up! book.
 */
 
 /*
-Week 4: (hours spent:
+Week 4: (hours spent: ~4)
 
 Prepared a powerpoint to give an idea on what my game is about
+
+the game's genres are rogue-like, action, and top-down.
+
+powerpoint link: https://docs.google.com/presentation/d/1dMOnIY62Waz047nMhHWFrJl-nLOFq2Us2SgAPybdZNY/edit#slide=id.g30743c032b6_0_1
+
+*/
+
+/* week 5: (hours spent: 
+
+continued reading the book while brainstorming the game's content to prepare for the storyboarding phase of the designing the game.
 
 */
