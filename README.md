@@ -58,8 +58,9 @@ powerpoint link: https://docs.google.com/presentation/d/1dMOnIY62Waz047nMhHWFrJl
 
 */
 
-/* week 5: (hours spent: 
+/* week 5: (hours spent: 4
 
-continued reading the book while brainstorming the game's content to prepare for the storyboarding phase of the designing the game.
+started brainstorming the game's content to prepare for the storyboarding phase of the designing the game.
+started watching tutorials for specific scripts like procedual generation.
 
 */
