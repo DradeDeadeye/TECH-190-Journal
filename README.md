@@ -63,6 +63,11 @@ powerpoint link: https://docs.google.com/presentation/d/1dMOnIY62Waz047nMhHWFrJl
 started brainstorming the game's content to prepare for the storyboarding phase of the designing the game.
 started watching tutorials for specific scripts like procedual generation.
 
+tutorials used:
+https://youtu.be/XtQMytORBmM?si=v4SFxjG8Ly-b3F3N
+
+https://youtube.com/playlist?list=PLcRSafycjWFenI87z7uZHFv6cUG2Tzu9v&si=wH5p2_u2ckqO0egk
+
 */
 
 /* week 6: (hours spent: ~
