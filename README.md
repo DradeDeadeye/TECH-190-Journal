@@ -70,8 +70,14 @@ https://youtube.com/playlist?list=PLcRSafycjWFenI87z7uZHFv6cUG2Tzu9v&si=wH5p2_u2
 
 */
 
-/* week 6: (hours spent: ~
+/* week 6: (hours spent: ~10)
 
 continued on working on procedual generation in creating randomly generated floors in each level
+
+finished doing the corridor random walk generation method
+
+finished doing the Rooms first generation method
+
+created some concept art and wrote 4/10 of the 10-pager for mid terms
 
 */
