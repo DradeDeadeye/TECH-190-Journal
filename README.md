@@ -81,3 +81,13 @@ finished doing the Rooms first generation method
 created some concept art and wrote 4/10 of the 10-pager for mid terms
 
 */
+
+/*
+week 7: (hours spent ~8-)
+
+continued and finished my 10-pager for the mid terms
+
+continued coding to try and finish the level generation of the game
+
+
+*/
