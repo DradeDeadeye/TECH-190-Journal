@@ -98,7 +98,8 @@ continued and finished coding the procedual level generation that produces a sim
 
 I started watching a tutorial and coding in creating:
 - entities like the playable character and friendly/hostile NPCs.
-- prefabs for the character's stats.
+  - prefabs for the character's stats.
+  - dynamic animations that would change depending on the action done (walking or attacking)
 - simple skills that deals damage and be a template and base for more complex skills.
 
 */
