@@ -83,11 +83,22 @@ created some concept art and wrote 4/10 of the 10-pager for mid terms
 */
 
 /*
-week 7: (hours spent ~8-)
+week 7: (hours spent ~8-10)
 
 continued and finished my 10-pager for the mid terms
 
 continued coding to try and finish the level generation of the game
 
+*/
+
+/*
+week 8: (hours spent ~6-
+
+continued and finished coding the procedual level generation that produces a simple level with a single room, a level that creates corridors first and then random rooms, and a level that creates rooms first and connects them with corridors.
+
+I started watching a tutorial and coding in creating:
+- entities like the playable character and friendly/hostile NPCs.
+- prefabs for the character's stats.
+- simple skills that deals damage and be a template and base for more complex skills.
 
 */
