@@ -92,14 +92,27 @@ continued coding to try and finish the level generation of the game
 */
 
 /*
-week 8: (hours spent ~6-
+week 8: (hours spent ~8)
 
 continued and finished coding the procedual level generation that produces a simple level with a single room, a level that creates corridors first and then random rooms, and a level that creates rooms first and connects them with corridors.
 
 I started watching a tutorial and coding in creating:
+- started polishing assets (coloring and animating)
 - entities like the playable character and friendly/hostile NPCs.
-  - prefabs for the character's stats.
+  - prefabs for them to be able to be spawned.
   - dynamic animations that would change depending on the action done (walking or attacking)
 - simple skills that deals damage and be a template and base for more complex skills.
 
 */
+
+/*
+week 9: (hours spent ~7)
+
+- coded stats for the player and the enemies to have (HP, Def, Atk, Spd, CD).
+- skill collision checker to check if it hit players/enemies/props or walls. Ignoring if it goes through the caster or
+  other multiple projectiles casted by the same caster.
+- Added variants for Def, Atk, and CD for the respected elements (i.e Flame Attack, Aqua Defense, Earth Cooldown, etc.)
+
+
+*/
+
