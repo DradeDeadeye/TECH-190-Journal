@@ -1,8 +1,9 @@
 # TECH-190-Journal
-//Journal on my coding in Tech 190
+//Journal on my coding in Tech 190, journey to creating "Trials of The Unik Elements"
 
-/*
-Week 1: (hours spent: ~5-7)
+
+
+/* Week 1: (hours spent: ~5-7)
 
 Had introduction to Tech 190 in class.
 
@@ -27,28 +28,33 @@ I submitted the base game together with a short video to show what I did in the 
 
 */
 
-/*
-Week 2: (hours spent: ~4-5)
+
+
+/* Week 2: (hours spent: ~4-5)
 
 thougth of concepts on what my final game will be.
 
 In the time of writing this, I thought of the game being a top down rogue-lite.
 
 Read a couple chapters in Level Up! The Guide to Great Video Game Design
+
 */
 
-/*
-Week 3: (hours spent: ~6)
+
+
+/* Week 3: (hours spent: ~6)
 
 I continued to think of concepts as I started with the "paperwork" of the game.
 
 for now, I wrote down the gameplay and goal pitch, mechanics, levels, and the characters that will be in the game.
 
 Continued reading the Level Up! book.
+
 */
 
-/*
-Week 4: (hours spent: ~4)
+
+
+/* Week 4: (hours spent: ~4)
 
 Prepared a powerpoint to give an idea on what my game is about
 
@@ -57,6 +63,8 @@ the game's genres are rogue-like, action, and top-down.
 powerpoint link: https://docs.google.com/presentation/d/1dMOnIY62Waz047nMhHWFrJl-nLOFq2Us2SgAPybdZNY/edit#slide=id.g30743c032b6_0_1
 
 */
+
+
 
 /* week 5: (hours spent: ~8)
 
@@ -70,6 +78,8 @@ https://youtube.com/playlist?list=PLcRSafycjWFenI87z7uZHFv6cUG2Tzu9v&si=wH5p2_u2
 
 */
 
+
+
 /* week 6: (hours spent: ~10)
 
 continued on working on procedual generation in creating randomly generated floors in each level
@@ -82,8 +92,9 @@ created some concept art and wrote 4/10 of the 10-pager for mid terms
 
 */
 
-/*
-week 7: (hours spent ~8-10)
+
+
+/* week 7: (hours spent ~8-10)
 
 continued and finished my 10-pager for the mid terms
 
@@ -91,8 +102,9 @@ continued coding to try and finish the level generation of the game
 
 */
 
-/*
-week 8: (hours spent ~15)
+
+
+/* week 8: (hours spent ~15)
 
 continued and finished coding the procedual level generation that produces a simple level with a single room, a level that creates corridors first and then random rooms, and a level that creates rooms first and connects them with corridors.
 
@@ -111,8 +123,48 @@ I started watching a tutorial and coding in creating:
 
 */
 
-/*
-week 9: (hours spent 
 
-*/
+
+/* week 9+10: (hours spent ~20)
+
+continued working a bit on the assets and animations of enemies and attacks
+
+coded loot drops and chances on the drops (made for trinkets/cards and currency)
+
+Made and coded a fully functional UI that shows your health, GP, and KP (planning to also show full stats somehow around the ui)
+
+coded enemy behavior so that they could only attack when the player is at a certain distance
+  - added hidden stats to enemyStats to have Attack Range and Attack Interval
+
+figured how to mark and label rooms made in a level using the dictionary function
+  - recorded the position of where the RanWalk started before it created the room
+
+was able to label the boss room (being the farthest room in the level from the player spawn) to be the boss
+  - boss is randomly picked from the Game manager, in instantiated and transformed together with the portal to the center of the boss room
+  - started planning how to add chest rooms and merchant rooms
+
+FINALY got the gameplay loop premis working (generate level, find boss, kill boss, enter portal, repeat)
+
+created an small algorythim from Co-Pilot that would have the gameObject (enemy) move towards the player
+
+coded a working but some what inefficient mapping for the movement pathing using a rule that has the floor and walls play a role (floors are walkable and walls are unwalkable)
+
+made the algorythim create nodes and anti-nodes based on the tilemaps
+  - used Gizmo to visualize the nodes
+
+made the movement be based on the enemyStats EnemySpd
+
+*/ Week 11:
+
+
+
+/*
+
+
+
+/*
+
+
+
+
 
