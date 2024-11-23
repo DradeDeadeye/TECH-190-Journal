@@ -155,8 +155,13 @@ made the algorythim create nodes and anti-nodes based on the tilemaps
 made the movement be based on the enemyStats EnemySpd
 
 */ Week 11:
+Fixed the issues in PathFindingGrids not generating
+now they generate everytime the a new map is generated
 
+created a system that checks all rooms that are NOT BossRooms or Safe and populates those with
+a fixed number of enemies randomly picked from a list
 
+started creating the inventory system
 
 /*
 
