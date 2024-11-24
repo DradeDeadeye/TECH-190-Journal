@@ -164,6 +164,7 @@ created a system that checks all rooms that are NOT BossRooms or Safe and popula
 a fixed number of enemies randomly picked from a list
 
 started creating the inventory system
+tutorial used: https://youtube.com/playlist?list=PLcRSafycjWFegXSGBBf4fqIKWkHDw_G8D&si=uW7bUesH9t0MUsHj
 
 /*
 
