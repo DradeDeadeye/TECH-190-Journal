@@ -168,8 +168,25 @@ tutorial used: https://youtube.com/playlist?list=PLcRSafycjWFegXSGBBf4fqIKWkHDw_
 
 /*
 Week 12-15: (hours spent ~2 weeks worth)
+Finished creating  the inventory system
+- fixed and found a solution for equipping, dropping, and consuming items
 
+Added a fully functional HUD that shows the controls, equipped skills, and cooldown timer
 
+Implemented the rest of the enemies, aspects, and level types
+
+made skills more modular for more customizations (same with enemy attacks)
+
+implemeneted the rest of the items, skill cards, and consumables
+
+added a HUD pop up that indicates the item and the GP/KP cost or if it was dropped
+
+added various item drops and their chances to each veteran (level 2), elite (level 3) and aspect (levle 4) enemies.
+
+added a working background music and music swapping feature that changes the music depending on the situation. (still needs to be fixed a bit as it doesn't continue playing another track after the current track finishes)
+
+implemented a simple level generation algorithm that creates a random order of level types (1 element for each 3 levels that changes after every 3rd level)
+- made it so that every 6th levels would be a saferoom level where you'd have above average amount of merchants and chests.
 /*
 
 
